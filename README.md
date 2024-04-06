@@ -1,7 +1,7 @@
-# PyTorch implementation of Adaptive Spatio-Temporal Context Learning for Traffic Forecasting with Limited Data
+# PyTorch implementation of DualST: Dual-track Spatio-temporal Learning for Urban Flow Prediction with Adaptive Normalization
 
 
-This is a testing PyTorch version implementation of DualST in the following paper: **"Adaptive Spatio-Temporal Context Learning for Traffic Forecasting with Limited Data"**.
+This is a testing PyTorch version implementation of DualST in the following paper: **"Dual-track Spatio-temporal Learning for Urban Flow Prediction with Adaptive Normalization"**.
 
 ## Installation
 ```
